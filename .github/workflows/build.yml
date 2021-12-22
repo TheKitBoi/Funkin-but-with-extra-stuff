@@ -131,6 +131,7 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install faxe
           haxelib install newgrounds
           haxelib install markdown
           haxelib install HtmlParser
