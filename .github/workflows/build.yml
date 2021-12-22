@@ -132,11 +132,11 @@ jobs:
           haxelib install flixel-ui
           haxelib install flixel-addons
           haxelib install faxe
-          haxelib install lime-switch
           haxelib install newgrounds
           haxelib install markdown
           haxelib install HtmlParser
           haxelib install nape-haxe4
+          haxelib install lime-switch
           haxelib git polymod https://github.com/larsiusprime/polymod.git
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
